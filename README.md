@@ -79,10 +79,12 @@ flutter pub get
 # Run on device/emulator
 flutter run
 
-## 🚀 Try It Live
+---
+### 🚀 Try It Live
 👉 [**Live Web Demo**](https://quizmasterapp-shailendra.netlify.app/) Use it in App Mode
 
-## 👨‍💻 Developed By
+---
+### 👨‍💻 Developed By
 **Shailendra Shrivastav**  
 📧 shailendrashrivastava1292@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shailendra-shrivastav-webdeveloper/)  
