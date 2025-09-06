@@ -28,15 +28,23 @@ This Flutter-based mobile application enables users to participate in quizzes ac
 ---
 
 ## 🖼️ Screenshots
+<div align="center">
 
-| ![Welcome/Splash Screen ](images/SplashScreen.jpg) | ![Start Page Light Mode](images/StartPageLightMode.jpg) | 
-   ![Start Quiz Page Dark Mode](images/startQuizPageDarkMode.jpg) |
-   ![Start Quiz Page Light Mode](images/startQuizPageLightMode.jpg) | 
- ![Quiz Page Dark Mode](images/QuizScreenDarkMode.jpg) | 
- ![Quiz Page Light Mode](images/QuizScreenLightMode.jpg) |
- ![Quiz Page Exit Dialog](images/ExitQuizPageDialog.jpg) |
- ![Quiz Result Screen Dark Mode](images/QuizResultScreenDarkMode.jpg)
-![Quiz Result Screen Light Mode](images/QuizResultScreenLightMode.jpg)|
+### 📸 App Screenshots
+
+| Splash Screen             | Start Page (Light)         | Start Page (Dark)          |
+|---------------------------|----------------------------|----------------------------|
+| <img src="images/SplashScreen.jpg" width="280" alt="Splash Screen" /> | <img src="images/StartPageLightMode.jpg" width="280" alt="Start Page Light Mode" /> | <img src="images/startQuizPageDarkMode.jpg" width="280" alt="Start Quiz Page Dark Mode" /> |
+
+| Quiz Page (Light)         | Quiz Page (Dark)           | Exit Quiz Dialog           |
+|---------------------------|----------------------------|----------------------------|
+| <img src="images/startQuizPageLightMode.jpg" width="280" alt="Start Quiz Page Light Mode" /> | <img src="images/QuizScreenDarkMode.jpg" width="280" alt="Quiz Screen Dark Mode" /> | <img src="images/ExitQuizPageDialog.jpg" width="280" alt="Exit Quiz Dialog" /> |
+
+| Result Screen (Dark)      | Result Screen (Light)      |                            |
+|---------------------------|----------------------------|----------------------------|
+| <img src="images/QuizResultScreenDarkMode.jpg" width="280" alt="Quiz Result Screen Dark Mode" /> | <img src="images/QuizResultScreenLightMode.jpg" width="280" alt="Quiz Result Screen Light Mode" /> | |
+
+</div>
 
 
 ## 🛠️ Tech Stack
